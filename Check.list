@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futufin.com
 
 DOMAIN,speed.cloudflare.com
 DOMAIN-SUFFIX,fast.com
